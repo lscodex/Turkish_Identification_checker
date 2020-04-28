@@ -1,4 +1,4 @@
-# Information 
+#Information 
 -  The program was just created for fun. Have to prove that how to calculate
    identification number.
 
